@@ -1,0 +1,9 @@
+{
+   "name": "Discord Revamp",
+   "description": "A revamped discord based on discord's current website.",
+   "version": "1.0.0",
+   "author": "eternal",
+   "theme": "DiscordRevamp.theme.css",
+   "splashTheme": "splash.css",
+   "license": "Unlicensed"
+}
