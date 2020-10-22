@@ -2,7 +2,7 @@
 A revamped discord based on discord's current website.
 
 # Downloads
-- [BetterDiscord](https://betterdiscord.net/ghdl?id=3419)
+- [BetterDiscord](https://betterdiscord.net/ghdl?id=3421)
 - Powercord: `git clone https://github.com/slow/discord-revamp/`
 
 # Previews
