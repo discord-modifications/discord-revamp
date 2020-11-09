@@ -1,4 +1,15 @@
-@import url(https://raw.githack.com/slow/dark-discord/main/src/source.css);
+@import url(https://slow.github.io/dark-discord/src/source.css);
+:root, .theme-light, .theme-dark {
+   --background-primary: #292841 !important;
+   --background-secondary: #242338 !important;
+   --background-secondary-alt: #1e1d2d !important;
+   --background-tertiary: #1c1b29 !important;
+   --background-accent: #413f66 !important;
+   --background-accent-alt: #403e63 !important;
+   --background-floating: #15141e !important;
+   --channeltextarea-background: #393859 !important;
+}
+
 .role-2irmRk {
    position: relative;
    overflow: hidden;
