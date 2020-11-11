@@ -31,13 +31,11 @@
    pointer-events: none;
 }
 
-.item-1tOPte.labelContainer-1BLJti.colorDefault-2K3EoJ.focused-3afm-jitem-1tOPte.labelContainer-1BLJti.colorDefault-2K3EoJ.focused-3afm-j {
+.menu-3sdvDG .colorDefault-2K3EoJ.focused-3afm-j {
    background-color: var(--background-modifier-active)
 }
 
-.headerSpotify-zpWxgT,
-.topSectionSpotify-1lI0-P,
-.topSectionSpotify-1lI0-P .headerFill-adLl4x .tabBarContainer-1s1u-z {
+.headerSpotify-zpWxgT, .topSectionSpotify-1lI0-P, .topSectionSpotify-1lI0-P .headerFill-adLl4x .tabBarContainer-1s1u-z {
    background-color: #699378;
 }
 
