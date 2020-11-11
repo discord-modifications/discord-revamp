@@ -35,6 +35,12 @@
    background-color: var(--background-modifier-active)
 }
 
+.headerSpotify-zpWxgT,
+.topSectionSpotify-1lI0-P,
+.topSectionSpotify-1lI0-P .headerFill-adLl4x .tabBarContainer-1s1u-z {
+   background-color: #699378;
+}
+
 .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover, .topPill-30KHOu .themed-OHr7kt.item-PXvHYJ:hover, .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .selected-aXhQR6 .layout-2DM8Md, .clickable-1JJAn8:hover .layout-2DM8Md, .clickable-1JJAn8.container-2Pjhx-:hover, .clickable-1JJAn8.container-2Pjhx-:hover .muted-3mU76i.selected-aXhQR6 .layout-2DM8Md, .wrapper-2jXpOf:hover .content-1x5b-n, .modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n, .button-38aScr, .item-26Dhrx, .side-8zPYf6>.item-PXvHYJ, .scrollableContainer-2NUZem, .checkbox-1ix_J3, .userInfoViewing-16kqK3, .userInfoEditing-1CEzdT, .css-118dehu-control, .css-gvi9bl-control, .css-17e1tep-control, .container-CpszHS, .gameNameInput-385LoS, .searchBar-3dMhjb, .searchBarComponent-32dTOx, .copyInputDefault-21sXtF, .addInputWrapper-1BOZ3d>.wrapper-1cBijl, .inputWrapper-31_8H8, .container-1s4HBn, .draggable-1EOU8o, .searchBar-1YE5UV, .autocompleteRow-2OthDa>.base-1pYU8j, .searchBar--fTZYa, .member-3-YXUe>.layout-2DM8Md, .auditLog-3jNbM6, .auditLog-3jNbM6>.headerDefault-1wrJcN, .auditLog-3jNbM6>.headerClickable-2IVFo9, .inputWrapper-31_8H8>.input-cIJ7To {
    border-radius: 25px !important;
 }
