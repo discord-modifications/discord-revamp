@@ -36,7 +36,11 @@
    border-radius: 25px;
 }
 
-.headerSpotify-zpWxgT, .topSectionSpotify-1lI0-P, .topSectionSpotify-1lI0-P .headerFill-adLl4x .tabBarContainer-1s1u-z {
+.tabBarContainer-1s1u-z {
+   border: none;
+}
+
+.headerSpotify-zpWxgT, .topSectionSpotify-1lI0-P {
    background-color: #699378;
 }
 
