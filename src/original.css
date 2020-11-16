@@ -1,34 +1,34 @@
 @import "https://slow.github.io/dark-discord/src/source.css";
 :root, .theme-light, .theme-dark {
+   --background-accent: #413f66 !important;
+   --background-accent-alt: #403e63 !important;
+   --background-floating: #15141e !important;
    --background-primary: #292841 !important;
    --background-secondary: #242338 !important;
    --background-secondary-alt: #1e1d2d !important;
    --background-tertiary: #1c1b29 !important;
-   --background-accent: #413f66 !important;
-   --background-accent-alt: #403e63 !important;
-   --background-floating: #15141e !important;
    --channeltextarea-background: #393859 !important;
 }
 
 .role-2irmRk {
-   position: relative;
-   overflow: hidden;
-   z-index: 0;
    border: none;
+   overflow: hidden;
    padding: 5px;
+   position: relative;
+   z-index: 0;
 }
 
 .roleCircle-3xAZ1j::before {
+   background: inherit;
    content: '';
+   height: 100%;
+   left: 0;
+   opacity: .2;
+   pointer-events: none;
    position: absolute;
    top: 0;
-   left: 0;
    width: 100%;
-   height: 100%;
-   background: inherit;
-   opacity: .2;
    z-index: -1;
-   pointer-events: none;
 }
 
 .menu-3sdvDG .colorDefault-2K3EoJ.focused-3afm-j, .menu-3sdvDG .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
@@ -95,8 +95,8 @@
 }
 
 .accountCreditRow-SHgyi0:not(:last-child) {
-   padding-bottom: 16px;
    border-bottom: none;
+   padding-bottom: 16px;
 }
 
 .inputWrapper-31_8H8:before {
@@ -104,9 +104,9 @@
 }
 
 .theme-dark .notches-1sAcEM.black-1D3qCv {
-   background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%2315141e'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E")
+   background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%2315141e'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
 }
 
 .theme-dark .notches-1sAcEM.gray-3_LNYR {
-   background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23292841'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E")
+   background: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23292841'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
 }
