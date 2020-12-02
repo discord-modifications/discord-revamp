@@ -11,5 +11,5 @@ A revamped discord based on discord's current website.
 <img src="https://media.wtf/73274975"/>
 
 # Support 
-- eternal#1000
+- eternal#0404
 
