@@ -53,10 +53,6 @@
    border: none;
 }
 
-.headerSpotify-zpWxgT, .topSectionSpotify-1lI0-P {
-   background-color: #699378;
-}
-
 .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover, .connectedAccount-36nQx7, .topPill-30KHOu .themed-OHr7kt.item-PXvHYJ:hover, .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .selected-aXhQR6 .layout-2DM8Md, .clickable-1JJAn8:hover .layout-2DM8Md, .clickable-1JJAn8.container-2Pjhx-:hover, .clickable-1JJAn8.container-2Pjhx-:hover .muted-3mU76i.selected-aXhQR6 .layout-2DM8Md, .wrapper-2jXpOf:hover .content-1x5b-n, .modeSelected-346R90 .content-1x5b-n, .modeSelected-346R90:hover .content-1x5b-n, .button-38aScr, .item-26Dhrx, .side-8zPYf6>.item-PXvHYJ, .scrollableContainer-2NUZem, .checkbox-1ix_J3, .userInfoViewing-16kqK3, .userInfoEditing-1CEzdT, .css-118dehu-control, .css-gvi9bl-control, .css-17e1tep-control, .container-CpszHS, .gameNameInput-385LoS, .searchBar-3dMhjb, .searchBarComponent-32dTOx, .copyInputDefault-21sXtF, .addInputWrapper-1BOZ3d>.wrapper-1cBijl, .inputWrapper-31_8H8, .container-1s4HBn, .draggable-1EOU8o, .searchBar-1YE5UV, .autocompleteRow-2OthDa>.base-1pYU8j, .searchBar--fTZYa, .member-3-YXUe>.layout-2DM8Md, .auditLog-3jNbM6, .auditLog-3jNbM6>.headerDefault-1wrJcN, .auditLog-3jNbM6>.headerClickable-2IVFo9, .inputWrapper-31_8H8>.input-cIJ7To {
    border-radius: 25px !important;
 }
@@ -161,4 +157,26 @@
 
 .inputWrapper-31_8H8:before, .flowerStar-1GeTsn path, .theme-dark .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK, .theme-light .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK {
    display: none;
+}
+
+.menu-3sdvDG .colorDefault-2K3EoJ.focused-3afm-j .label-22pbtT {
+   transform: translate(5px, 0);
+   transition: transform .2s;
+}
+
+.menu-3sdvDG .colorDefault-2K3EoJ .label-22pbtT {
+   transform: translate(0, 0);
+   transition: transform .2s;
+}
+
+.colorDefault-2K3EoJ .checkbox-3s5GYZ, .colorDefault-2K3EoJ .radioSelection-1HmrQS {
+   color: var(--interactive-hover);
+}
+
+.topSectionSpotify-1lI0-P .lookInverted-2D7oAl.colorGreen-29iAKY, .topSectionPlaying-1J5E4n .lookInverted-2D7oAl.colorBrand-3pXr91 {
+   color: var(--interactive-normal);
+}
+
+.headerSpotify-zpWxgT, .topSectionSpotify-1lI0-P, .topSectionPlaying-1J5E4n, .headerPlaying-j0WQBV {
+   background-color: var(--interactive-normal);
 }
