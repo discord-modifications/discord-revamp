@@ -6,7 +6,7 @@ A revamped discord based on discord's current website.
 - Powercord: `git clone https://github.com/slow/discord-revamp/`
 
 # Previews
-<img src="https://media.wtf/35044000"/>
+<img src="https://media.wtf/27226994"/>
 
 # Support 
 - eternal#0404
