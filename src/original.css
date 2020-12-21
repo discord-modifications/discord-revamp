@@ -474,10 +474,14 @@
    background-color: var(--accent-alpha);
 }
 
-.topSectionSpotify-1lI0-P .lookInverted-2D7oAl.colorGreen-29iAKY, .topSectionPlaying-1J5E4n .lookInverted-2D7oAl.colorBrand-3pXr91, .attachButtonPlay-3iJ0mf, .item-1tOPte.colorDanger-2qLCe1, .item-1tOPte.colorBrand-ROmMP1, .item-1tOPte.colorPremium-p4p7qO .icon-LYJorE {
+.topSectionSpotify-1lI0-P .lookInverted-2D7oAl.colorGreen-29iAKY, .topSectionPlaying-1J5E4n .lookInverted-2D7oAl.colorBrand-3pXr91, .attachButtonPlay-3iJ0mf {
    color: var(--interactive-normal);
 }
 
 .item-1tOPte.colorDanger-2qLCe1.focused-3afm-j, .item-1tOPte.colorBrand-ROmMP1.focused-3afm-j, .item-1tOPte.colorPremium-p4p7qO.focused-3afm-j .icon-LYJorE {
    color: #fff !important;
+}
+
+.item-1tOPte.colorDanger-2qLCe1, .item-1tOPte.colorBrand-ROmMP1, .item-1tOPte.colorPremium-p4p7qO .icon-LYJorE {
+   color: var(--interactive-normal) !important;
 }
