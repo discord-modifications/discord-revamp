@@ -197,7 +197,7 @@
    display: none;
 }
 
-.formNotice-2_hHWR, .accountList-33MS45, .banner-3Kac2g, .wrapper-3jrx9n, .powercord-product, .powercord-entities-manage-tabs, .descriptionBox-1EKQKL, .upsellContainer-L9xv7w, .userPopout-3XzG_A, .inner-1ilYF7>.flex-1xMQg5, .quickswitcher-3JagVE, .uploadModal-2ifh8j, .hero-EvfTTA, .root-1gCeng {
+.accountList-33MS45, .banner-3Kac2g, .wrapper-3jrx9n, .powercord-product, .powercord-entities-manage-tabs, .descriptionBox-1EKQKL, .upsellContainer-L9xv7w, .userPopout-3XzG_A, .inner-1ilYF7>.flex-1xMQg5, .quickswitcher-3JagVE, .uploadModal-2ifh8j, .hero-EvfTTA, .root-1gCeng {
    border-radius: 20px;
 }
 
@@ -221,10 +221,6 @@
 
 .iconTierThree-3vLwdG, .theme-dark .nowPlaying-284llR .lastPlayed-3bQ7Bo, .theme-dark .nowPlaying-284llR .overlayStatusText-L2IACa, .theme-light .nowPlaying-284llR .lastPlayed-3bQ7Bo, .theme-light .nowPlaying-284llR .overlayStatusText-L2IACa, .theme-dark .nowPlaying-284llR .overlayToggleIconOff-1kT42w .fill-1ugeBG, .theme-dark .nowPlaying-284llR .overlayToggleIconOn-3UNmty .fill-1ugeBG, .theme-light .nowPlaying-284llR .overlayToggleIconOff-1kT42w .fill-1ugeBG, .theme-light .nowPlaying-284llR .overlayToggleIconOn-3UNmty .fill-1ugeBG, .isUnread-3Ef-o9, .isUnread-3Ef-o9 .content-1o0f9g.content-1o0f9g, .circleIconButton-jET_ig.selected-ugP_am svg path {
    color: #fff;
-}
-
-.input-cIJ7To {
-   border-radius: 5px;
 }
 
 .input-cIJ7To.focused-1mmYsC, .input-cIJ7To:focus {
@@ -484,4 +480,16 @@
 
 .item-1tOPte.colorDanger-2qLCe1, .item-1tOPte.colorBrand-ROmMP1, .item-1tOPte.colorPremium-p4p7qO .icon-LYJorE {
    color: var(--interactive-normal) !important;
+}
+
+.formNotice-2_hHWR {
+   border-radius: 50px;
+}
+
+.input-cIJ7To, .powercord-quickcss-editor-settings, .powercord-quickcss:not(.popped-out) {
+   border-radius: 5px;
+}
+
+.cardPrimary-1Hv-to, .accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
+   border-radius: 25px;
 }
