@@ -197,8 +197,12 @@
    display: none;
 }
 
-.accountList-33MS45, .banner-3Kac2g, .wrapper-3jrx9n, .powercord-product, .powercord-entities-manage-tabs, .descriptionBox-1EKQKL, .upsellContainer-L9xv7w, .userPopout-3XzG_A, .inner-1ilYF7>.flex-1xMQg5, .quickswitcher-3JagVE, .uploadModal-2ifh8j, .hero-EvfTTA, .root-1gCeng {
+.accountList-33MS45, .banner-3Kac2g, .wrapper-3jrx9n, .powercord-product, .descriptionBox-1EKQKL, .upsellContainer-L9xv7w, .userPopout-3XzG_A, .inner-1ilYF7>.flex-1xMQg5, .quickswitcher-3JagVE, .uploadModal-2ifh8j, .hero-EvfTTA, .root-1gCeng {
    border-radius: 20px;
+}
+
+.powercord-entities-manage-tabs {
+   border-radius: 20px !important;
 }
 
 .group-2dAfBy {
