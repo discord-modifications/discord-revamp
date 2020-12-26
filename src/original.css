@@ -486,6 +486,10 @@
    color: var(--interactive-normal) !important;
 }
 
+.button-38aScr {
+   border-radius: 50px !important;
+}
+
 .formNotice-2_hHWR {
    border-radius: 50px;
 }
