@@ -9,5 +9,5 @@ A revamped discord based on discord's current website.
 <img src="https://media.wtf/27226994"/>
 
 # Support 
-- eternal#0404
+- eternal#1000
 
