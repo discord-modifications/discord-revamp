@@ -497,3 +497,7 @@ div[aria-controls="ADD_FRIEND-tab"], .categoryHeader-O1zU94, .cardPrimary-1Hv-to
 .input-cIJ7To, .powercord-quickcss-editor-settings, .powercord-quickcss:not(.popped-out) {
    border-radius: 5px;
 }
+
+.theme-light .layer-3QrUeG:first-of-type::before {
+   content: 'Discord Revamp only supports the dark appearance of Discord. Follow the highlights to set your appearance to dark.' !important;
+}
