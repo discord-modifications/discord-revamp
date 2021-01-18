@@ -8,6 +8,4 @@ A revamped discord based on discord's current website.
 # Previews
 <img src="https://media.wtf/27226994"/>
 
-# Support 
-- eternal#1000
 
