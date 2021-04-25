@@ -1,6 +1,5 @@
 @import "https://slow.github.io/dark-discord/src/source.css";
 @import "https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap";
-@import "https://snappercord.github.io/Settings-Icons/source.css";
 @import "https://nyri4.github.io/Discolored/main.css";
 :root, .theme-light, .theme-dark {
    --accent: #7289da !important;
@@ -413,7 +412,7 @@ div[class*="-spotify-playlist"]:hover {
    opacity: 1;
 }
 
-.tabBar-ZmDY9v .item-3HknzM[style*="background-color: rgba(67, 181, 129, 0.2);"] {
+.wrapper-3WhCwL, .tabBar-ZmDY9v .item-3HknzM[style*="background-color: rgba(67, 181, 129, 0.2);"] {
    background-color: var(--accent-alpha) !important;
    color: var(--accent) !important;
 }
@@ -452,10 +451,6 @@ div[class*="-spotify-playlist"]:hover {
    font-weight: 500 !important;
 }
 
-.topSectionSpotify-1lI0-P .header-QKLPzZ .button-38aScr .contents-18-Yxp, .fileNameLink-9GuxCo, .expandedFolderIconWrapper-1xLaU- svg {
-   color: var(--accent) !important;
-}
-
 .topSectionSpotify-1lI0-P .header-QKLPzZ button[class*="colorGreen"]:active {
    background-color: #ddd;
 }
@@ -477,7 +472,7 @@ div[class*="-spotify-playlist"]:hover {
    border-radius: 0 0 20px 20px;
 }
 
-.wrapper-3WhCwL, .buffer-26XPkd, .buffer-26XPkd::after, .buffer-26XPkd::before, .content-3dzVd8.isMentioned-N-h9aa, .mediaBarPreview-1jfyFs, .mediaBarPreview-1jfyFs::after, .mediaBarPreview-1jfyFs::before, .mentioned-xhSam7, .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode .message-2qnXI6.mentioned-xhSam7:hover, .reaction-1hd86g.reactionMe-wv5HKu {
+.buffer-26XPkd, .buffer-26XPkd::after, .buffer-26XPkd::before, .content-3dzVd8.isMentioned-N-h9aa, .mediaBarPreview-1jfyFs, .mediaBarPreview-1jfyFs::after, .mediaBarPreview-1jfyFs::before, .mentioned-xhSam7, .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode .message-2qnXI6.mentioned-xhSam7:hover, .reaction-1hd86g.reactionMe-wv5HKu {
    background-color: var(--accent-alpha);
 }
 
@@ -507,4 +502,8 @@ div[aria-controls="ADD_FRIEND-tab"], .categoryHeader-O1zU94, .channelTextArea-rN
 
 .tooltip-2QfLtc .tooltipContent-bqVLWK .row-2OVM4t .guildNameText-74xXQn, .theme-dark .activityIcon-c4ew_N, .theme-light .activityIcon-c4ew_N, .theme-dark .listItemTooltip-CDcY8J, .theme-light .listItemTooltip-CDcY8J, .theme-dark .tooltip-2QfLtc, .theme-light .tooltip-2QfLtc, .tooltipContent-bqVLWK .guildNameText-3Zwx4p {
    color: #000 !important;
+}
+
+.topSectionSpotify-1lI0-P .header-QKLPzZ .button-38aScr .contents-18-Yxp, .fileNameLink-9GuxCo, .expandedFolderIconWrapper-1xLaU- svg, .wrapper-3WhCwL {
+   color: var(--accent) !important;
 }
