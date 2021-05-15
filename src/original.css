@@ -2,8 +2,8 @@
 @import "https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap";
 @import "https://nyri4.github.io/Discolored/main.css";
 :root, .theme-light, .theme-dark {
-   --accent: var(--brand-experiment) !important;
-   --accent-alpha: rgba(114, 137, 218, .1) !important;
+   --accent: #5865F2 !important;
+   --accent-alpha: rgba(88, 101, 242, .1) !important;
    --background-accent: #413f66 !important;
    --background-accent-alt: #403e63 !important;
    --background-floating: #15141e !important;
