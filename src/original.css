@@ -2,7 +2,7 @@
 @import "https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap";
 @import "https://nyri4.github.io/Discolored/main.css";
 :root, .theme-light, .theme-dark {
-   --accent: #7289da !important;
+   --accent: var(--brand-experiment) !important;
    --accent-alpha: rgba(114, 137, 218, .1) !important;
    --background-accent: #413f66 !important;
    --background-accent-alt: #403e63 !important;
@@ -81,11 +81,11 @@
    border-radius: 10px;
 }
 
-.circleIconButton-jET_ig {
+.circleIcon-1-oi1i, .circleIconButton-1QV--U {
    color: var(--text-muted);
 }
 
-.circleIconButton-jET_ig.selected-ugP_am {
+.circleIcon-1-oi1i.selected-1JjBPm, .circleIconButton-1QV--U.selected-1JjBPm {
    background-color: var(--background-accent);
 }
 
@@ -190,7 +190,7 @@
    height: 35px;
 }
 
-.footer-1fjuF6 .protip-YaFfgO, .description-2L932D, #status-picker .separator-2I32lJ, #private-channels-1, .buttons-3JBrkn>.button-38aScr, .container-16j22k *, .tooltipPointer-3ZfirK, .inputWrapper-31_8H8:before, .flowerStar-1GeTsn path, .theme-dark .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK, .theme-light .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK, .container-3auIfb .slider-TkfMQL, .checkboxWrapper-SkhIWG .slider-TkfMQL {
+.footer-1fjuF6 .protip-YaFfgO, .description-2L932D, #status-picker .separator-2I32lJ, .buttons-3JBrkn>.button-38aScr, .container-16j22k *, .tooltipPointer-3ZfirK, .inputWrapper-31_8H8:before, .flowerStar-1GeTsn path, .theme-dark .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK, .theme-light .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK, .container-3auIfb .slider-TkfMQL, .checkboxWrapper-SkhIWG .slider-TkfMQL {
    display: none;
 }
 
