@@ -100,9 +100,8 @@
    background-color: rgba(255, 255, 255, .04) !important;
 }
 
-.connectedAccount-36nQx7 {
-   background: var(--background-primary);
-   background-color: var(--background-primary);
+.connectedAccount-2Jb-Z0 {
+   background: var(--background-tertiary);
    border: none !important;
 }
 
@@ -350,7 +349,7 @@
    transition: background-color .1s, color .1s;
 }
 
-.menu-3sdvDG, .authedApp-mj2Hmd, .connection-1fbD7X, .detailsBlock-FoDTGA, .accountCredit-2hUNux, .cardWrapper-2Min21, .card-3AyPWq, .wrapper-3nSjSv, .membershipDialog-rVL-t_, .previewContainer-37c2Si, .marginBottom20-32qID7>.formNotice-2_hHWR, .marginBottom20-32qID7>.children-rWhLdy>.formNotice-2_hHWR, .option-n0icdO, .flexCenter-3_1bcw:before, .preview-2nSL_2, .codeRedemptionRedirect-1wVR4b, div[class*="-account"], .card-o7rAq-, .featureCard-1RR4Tl, .itemCard-v9viV7, .card-FDVird:before, .checklistContainer-mFJZEJ, .container-3JTnYm, .autocomplete-1vrmpx, .feature-2w65J5, .contentWrapper-SvZHNd, .searchBar-5di9mG, .streamPreview-2-WUWT, .result-3w1ZcL:after, .result-3w1ZcL, .categoryFade-2ybR1J, .categoryFadeBlurple-1j72_A, .gif-1TcNIB, .root-1gCeng>.content-1LAB8Z>.message-2qRu38, #search-results, .userSelectNone-Iy6XEP, .giftCodeContainer-1fbmAS>.tile-2OwFgW, .modalRoot-1Kx4Hb {
+.menu-3sdvDG, .authedApp-mj2Hmd, .connectedAccount-2Jb-Z0, .detailsBlock-FoDTGA, .accountCredit-2hUNux, .cardWrapper-2Min21, .card-3AyPWq, .wrapper-3nSjSv, .membershipDialog-rVL-t_, .previewContainer-37c2Si, .marginBottom20-32qID7>.formNotice-2_hHWR, .marginBottom20-32qID7>.children-rWhLdy>.formNotice-2_hHWR, .option-n0icdO, .flexCenter-3_1bcw:before, .preview-2nSL_2, .codeRedemptionRedirect-1wVR4b, div[class*="-account"], .card-o7rAq-, .featureCard-1RR4Tl, .itemCard-v9viV7, .card-FDVird:before, .checklistContainer-mFJZEJ, .container-3JTnYm, .autocomplete-1vrmpx, .feature-2w65J5, .contentWrapper-SvZHNd, .searchBar-5di9mG, .streamPreview-2-WUWT, .result-3w1ZcL:after, .result-3w1ZcL, .categoryFade-2ybR1J, .categoryFadeBlurple-1j72_A, .gif-1TcNIB, .root-1gCeng>.content-1LAB8Z>.message-2qRu38, #search-results, .userSelectNone-Iy6XEP, .giftCodeContainer-1fbmAS>.tile-2OwFgW, .modalRoot-1Kx4Hb {
    border-radius: 15px;
 }
 
