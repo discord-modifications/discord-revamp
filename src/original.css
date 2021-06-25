@@ -515,6 +515,11 @@ div[aria-controls="ADD_FRIEND-tab"], .categoryHeader-O1zU94, .channelTextArea-rN
    width: 95%;
 }
 
+.jumpToPresentBar-G1R9s6 {
+   margin: auto;
+   width: 85% !important;
+}
+
 .typeWindows-1za-n7 {
    height: 30px;
 }
