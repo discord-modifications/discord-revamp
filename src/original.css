@@ -16,6 +16,7 @@
    --channels-default: #817eb3 !important;
    --channeltextarea-background: var(--background-secondary-alt) !important;
    --font: 'Roboto Condensed' !important;
+   --font-display:  var(--font) !important;
    --interactive-active: #d7d5ff !important;
    --interactive-hover: #b5b2ff !important;
    --interactive-muted: #7f7cbd !important;
