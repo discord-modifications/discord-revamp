@@ -192,7 +192,7 @@
    height: 35px;
 }
 
-.footer-1fjuF6 .protip-YaFfgO, .description-2L932D, #status-picker .separator-2I32lJ, .buttons-3JBrkn>.button-38aScr, .container-16j22k *, .tooltipPointer-3ZfirK, .inputWrapper-31_8H8:before, .flowerStar-1GeTsn path, .theme-dark .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK, .theme-light .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK, .container-3auIfb .slider-TkfMQL, .checkboxWrapper-SkhIWG .slider-TkfMQL {
+.wordmarkWindows-1v0lYD svg, .footer-1fjuF6 .protip-YaFfgO, .description-2L932D, #status-picker .separator-2I32lJ, .buttons-3JBrkn>.button-38aScr, .container-16j22k *, .tooltipPointer-3ZfirK, .inputWrapper-31_8H8:before, .flowerStar-1GeTsn path, .theme-dark .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK, .theme-light .tooltipBrand-g03Nz8 .tooltipPointer-3ZfirK, .container-3auIfb .slider-TkfMQL, .checkboxWrapper-SkhIWG .slider-TkfMQL {
    display: none;
 }
 
@@ -513,4 +513,23 @@ div[aria-controls="ADD_FRIEND-tab"], .categoryHeader-O1zU94, .channelTextArea-rN
 .attachedBars-tZDmyV {
    margin: auto;
    width: 95%;
+}
+
+.typeWindows-1za-n7 {
+   height: 30px;
+}
+
+.winButton-iRh8-Z {
+   height: 33px;
+   width: 50px;
+}
+
+.wordmarkWindows-1v0lYD::after {
+   content: "Discord";
+   font: 400 12px 'Segoe UI';
+   left: 10px;
+   margin-left: -2.5px;
+   position: relative;
+   top: 5px;
+   width: 100%;
 }
