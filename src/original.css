@@ -11,6 +11,7 @@
    --background-secondary: #242338 !important;
    --background-secondary-alt: #1e1d2d !important;
    --background-tertiary: #1c1b29 !important;
+   --brand-experiment: var(--accent) !important;
    --bsi-invisible-color: #4C4A6E !important;
    --bsi-offline-color: #4C4A6E !important;
    --channels-default: #817eb3 !important;
