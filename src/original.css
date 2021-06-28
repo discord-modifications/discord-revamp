@@ -20,7 +20,7 @@
    --font-display:  var(--font) !important;
    --interactive-active: #d7d5ff !important;
    --interactive-hover: #b5b2ff !important;
-   --interactive-muted: #7f7cbd !important;
+   --interactive-muted: #4a476e !important;
    --interactive-normal: #7f7cbd !important;
    --settings-icon-color: var(--channels-default) !important;
    --text-link: var(--accent) !important;
