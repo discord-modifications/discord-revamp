@@ -1,6 +1,6 @@
 @import "https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap";
 
-::-webkit-input-placeholder, body, button, input, select, textarea, * {
+* {
    font-family: 'Roboto Condensed', sans-serif;
    font-style: normal;
 }
