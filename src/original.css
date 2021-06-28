@@ -111,6 +111,10 @@
    stroke: var(--accent) !important;
 }
 
+.tooltipContent-bqVLWK .activityIcon-E-aeJm {
+   color: #000;
+}
+
 .container-16j22k {
    background: transparent;
    pointer-events: none;
@@ -217,10 +221,6 @@
 .highlight {
    background-color: var(--accent-alpha);
    filter: brightness(3);
-}
-
-.iconTierThree-3vLwdG, .theme-dark .nowPlaying-284llR .lastPlayed-3bQ7Bo, .theme-dark .nowPlaying-284llR .overlayStatusText-L2IACa, .theme-light .nowPlaying-284llR .lastPlayed-3bQ7Bo, .theme-light .nowPlaying-284llR .overlayStatusText-L2IACa, .theme-dark .nowPlaying-284llR .overlayToggleIconOff-1kT42w .fill-1ugeBG, .theme-dark .nowPlaying-284llR .overlayToggleIconOn-3UNmty .fill-1ugeBG, .theme-light .nowPlaying-284llR .overlayToggleIconOff-1kT42w .fill-1ugeBG, .theme-light .nowPlaying-284llR .overlayToggleIconOn-3UNmty .fill-1ugeBG, .isUnread-3Ef-o9, .isUnread-3Ef-o9 .content-1o0f9g.content-1o0f9g, .circleIconButton-jET_ig.selected-ugP_am svg path {
-   color: #fff;
 }
 
 .input-cIJ7To, div[class*="-quickcss-editor-settings"], div[class*="-quickcss"]:not(.popped-out) {
@@ -538,4 +538,8 @@ div[class*="-spotify-playlist"]:hover {
    position: relative;
    top: 5px;
    width: 100%;
+}
+
+.tooltipGreen-WdeQwd .tooltipContent-bqVLWK, .iconTierThree-3vLwdG, .theme-dark .nowPlaying-284llR .lastPlayed-3bQ7Bo, .theme-dark .nowPlaying-284llR .overlayStatusText-L2IACa, .theme-light .nowPlaying-284llR .lastPlayed-3bQ7Bo, .theme-light .nowPlaying-284llR .overlayStatusText-L2IACa, .theme-dark .nowPlaying-284llR .overlayToggleIconOff-1kT42w .fill-1ugeBG, .theme-dark .nowPlaying-284llR .overlayToggleIconOn-3UNmty .fill-1ugeBG, .theme-light .nowPlaying-284llR .overlayToggleIconOff-1kT42w .fill-1ugeBG, .theme-light .nowPlaying-284llR .overlayToggleIconOn-3UNmty .fill-1ugeBG, .isUnread-3Ef-o9, .isUnread-3Ef-o9 .content-1o0f9g.content-1o0f9g, .circleIconButton-jET_ig.selected-ugP_am svg path {
+   color: #fff;
 }
