@@ -16,6 +16,7 @@
    --bsi-offline-color: #4C4A6E !important;
    --channels-default: #817eb3 !important;
    --channeltextarea-background: var(--background-secondary-alt) !important;
+   --control-brand-foreground: var(--accent) !important;
    --font: 'Roboto Condensed' !important;
    --font-display: var(--font) !important;
    --interactive-active: #d7d5ff !important;
