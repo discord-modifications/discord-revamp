@@ -1,6 +1,5 @@
 @import "https://slow.github.io/dark-discord/src/source.css";
 @import "https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap";
-@import "https://nyri4.github.io/Discolored/main.css";
 :root, .theme-light, .theme-dark {
    --accent: var(--interactive-normal) !important;
    --accent-alpha: rgba(88, 101, 242, .1) !important;
