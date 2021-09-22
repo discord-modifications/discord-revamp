@@ -11,7 +11,8 @@
 
 <h3 align='center'>Discord Revamp</h3>
 
-<p align='center'>Note, browse, celebrate & make your friends birthday special and joyful by sharing birthday wishes to them.</p>
+<p align='center'>A revamped discord based on discord's current website.
+</p>
 
 
 ---
