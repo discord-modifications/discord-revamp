@@ -8,26 +8,27 @@
 </p>
 
 ---
-# Discord Revamp
 
-A revamped discord based on discord's current website.
+<h3 align='center'>Discord Revamp</h3>
 
-![Preview](https://media.wtf/28707384)
+<p align='center'>Note, browse, celebrate & make your friends birthday special and joyful by sharing birthday wishes to them.</p>
+
 
 ---
 
-## Install
+## Previews
 
-#### [**Powercord**](https://powercord.dev/) or [**Vizality**](https://vizality.com/)
+![Preview](https://media.wtf/28707384)
+## Installation
+
+### Powercord / Vizality
 `git clone https://github.com/slow/discord-revamp`
 
-#### [**BetterDiscord**](https://betterdiscord.app/) <br/>
+### [BetterDiscord](https://slow.github.io/downloader/?theme=discord-revamp)
 
-[Direct Download](https://slow.github.io/downloader/?theme=discord-revamp) | [Source](https://raw.githubusercontent.com/slow/discord-revamp/main/DiscordRevamp.theme.css)
+### Web
+- Install **Stylus** for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
 
-**Web** :
-* Install **Stylus**: [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) | [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
+- Visit [this link](https://raw.githubusercontent.com/slow/discord-revamp/main/DiscordRevamp.user.css)
 
-* Visit [this link](https://raw.githubusercontent.com/slow/discord-revamp/main/DiscordRevamp.user.css)
-
-* Install the style directly into your browser
+- Install the style directly into your browser
