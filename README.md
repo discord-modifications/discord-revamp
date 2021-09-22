@@ -20,11 +20,13 @@
 
 ![Preview](https://media.wtf/28707384)
 ## Installation
-## Powercord / Vizality
+#### BetterDiscord
+- Visit [this link](https://slow.github.io/downloader/?theme=discord-revamp)
+
+#### Powercord / Vizality
 `git clone https://github.com/slow/discord-revamp`
 
-## [BetterDiscord](https://slow.github.io/downloader/?theme=discord-revamp)
-## Web
+#### Web
 - Install **Stylus** for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
 
 - Visit [this link](https://raw.githubusercontent.com/slow/discord-revamp/main/DiscordRevamp.user.css)
