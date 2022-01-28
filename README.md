@@ -1,4 +1,4 @@
-eternal404![Banner](https://raw.githubusercontent.com/eternal404/discord-revamp/main/assets/banner.png)
+![Banner](https://raw.githubusercontent.com/eternal404/discord-revamp/main/assets/banner.png)
 
 <p align='center'>
    <a href='https://discord.gg/HQ5N7Rcajc'><img align='center' alt='Discord' src='https://img.shields.io/discord/887015827134632057?color=393360&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
