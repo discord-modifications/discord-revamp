@@ -2,6 +2,7 @@
    "name": "Discord Revamp",
    "description": "A revamped discord based on discord's current website.",
    "icon": "assets/icon.png",
+   "id": "eternal.discord-revamp",
    "version": "1.0.0",
    "author": "eternal",
    "theme": "index.scss",

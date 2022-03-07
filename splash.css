@@ -5,15 +5,15 @@
    font-style: normal;
 }
 
-#splash {
+#splash, body {
    background: #1c1b29;
 }
 
-.progress .progress-bar {
+.progress .progress-bar, #bar-container {
    background-color: #413f66;
 }
 
-.progress .progress-bar .complete {
+.progress .progress-bar .complete, #bar-fill {
    background-color: #fff;
 }
 
