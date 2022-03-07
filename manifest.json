@@ -7,6 +7,7 @@
    "author": "eternal",
    "theme": "index.scss",
    "discord": "HQ5N7Rcajc",
+   "splash": "splash.css",
    "splashTheme": "splash.css",
    "license": "Unlicensed",
    "consent": false
