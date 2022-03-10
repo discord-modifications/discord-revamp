@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/eternal404/discord-revamp/main/assets/banner.png)
+![Banner](https://raw.githubusercontent.com/discord-modifications/discord-revamp/main/assets/banner.png)
 
 <p align='center'>
    <a href='https://discord.gg/HQ5N7Rcajc'><img align='center' alt='Discord' src='https://img.shields.io/discord/887015827134632057?color=393360&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
@@ -22,7 +22,7 @@
 ![Preview](https://media.wtf/28707384)
 ## Installation
 #### BetterDiscord
-- Visit [this link](https://eternal404.github.io/downloader/?theme=discord-revamp)
+- Visit [this link](https://discord-modifications.github.io/downloader/?theme=discord-revamp)
 
 #### Powercord / Vizality
 `git clone https://github.com/eternal404/discord-revamp`
@@ -30,6 +30,6 @@
 #### Web
 - Install **Stylus** for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
 
-- Visit [this link](https://raw.githubusercontent.com/eternal404/discord-revamp/main/DiscordRevamp.user.css)
+- Visit [this link](https://raw.githubusercontent.com/discord-modifications/discord-revamp/main/DiscordRevamp.user.css)
 
 - Install the style directly into your browser
